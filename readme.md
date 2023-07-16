@@ -17,7 +17,9 @@ If you would like to test on an actual board, you can buy one for like 15 bucks 
 
 ### Setup steps
 
-Steps for setup can be found at [README.md](README.md)
+If you will be suing the simulator, there is no setup. You can run code [here](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-F446RE?qs=PRtH0mD6DWYnuBoPSlbRCA%3D%3D).
+
+If you will be using a board then follow the steps on the [TR-mbed readme](https://github.com/Triton-Robotics/TR-mbed/blob/main/README.md).
 
 ### Testing your setup
 
