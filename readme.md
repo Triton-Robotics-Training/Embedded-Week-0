@@ -27,4 +27,6 @@ The most you can do without a physical board to test your setup is to build a bl
 
 # Assignment
 
-All that is to turn in for Week 0 is a `.bin` or .`elf` file from the first build of the code.  Build a basic blinky or anything you want and submit the bin or elf file. If you have trouble with setup, compilation, or anything else, contact us on Discord `@Embedded TA`.
+For Week 0 you have to turn in a `.bin` or .`elf` file from the first build of the code. Build a basic blinky or anything you want and submit the bin or elf file. Make sure to also read our [coding style guide](https://github.com/Triton-Robotics-Training/Week-0/wiki/Very-Short-Coding-Style-Guide). While you probably won't need all of it now, you definitely will once you become and embedded member.
+
+If you have trouble with setup, compilation, or anything else, contact us on Discord `@Embedded TA`.
