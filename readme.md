@@ -2,7 +2,7 @@
 
 ### Logistics
 
-There will be weekly meetings, both online and in person. The shcedule is TBD and announced on Discord.
+There will be weekly meetings, both online and in person. The schedule is TBD and announced on Discord.
 
 ### Prerequisites
 
@@ -17,13 +17,13 @@ If you would like to test on an actual board, you can buy one for like 15 bucks 
 
 ### Setup steps
 
-If you will be suing the simulator, there is no setup. You can run code [here](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-F446RE?qs=PRtH0mD6DWYnuBoPSlbRCA%3D%3D).
+If you will be using the simulator, there is no setup. You can run code [here](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-F446RE?qs=PRtH0mD6DWYnuBoPSlbRCA%3D%3D).
 
 If you will be using a board then follow the steps on the [TR-mbed readme](https://github.com/Triton-Robotics/TR-mbed/blob/main/README.md).
 
 ### Testing your setup
 
-The most you can do without a physical board to test your setup is to build a blinky and see if it compiles. All the rest of our testing, can be done on the online simulator. However, it is highly recommended you use a board if you have one.
+The most you can do without a physical board to test your setup is to build a blinky and see if it compiles. All the rest of our training program, can be done on the online simulator. However, it is highly recommended you use a board if you have one.
 
 # Assignment
 
