@@ -53,11 +53,11 @@ GitHub is a web-based platform that provides hosting for Git repositories, enabl
 
 There will be 5 weeks of content that will prepare you on a plethora of topics relating embedded systems.
 
-Week 1: Signals
-Week 2: Binary Bites and Protocol 
-Week 3: PID
-Week 4: Motors and Chasis
-Week 5: Pitch, Yaw, and Shoot
+- Week 1: Signals
+- Week 2: Binary Bites and Protocol 
+- Week 3: PID
+- Week 4: Motors and Chasis
+- Week 5: Pitch, Yaw, and Shoot
 
 You can do all of these online except week 4 & 5 because you'll need to test it with the actual motors on the robots. If you are stuck feel free to attend the weekly embed team meetings (3 per week).
 
