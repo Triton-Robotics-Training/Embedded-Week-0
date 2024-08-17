@@ -47,7 +47,7 @@ git merge <new-branch-name>
 ## Github
 GitHub is a web-based platform that provides hosting for Git repositories, enabling developers to manage, share, and collaborate on code projects. It's one of the most popular platforms for version control and source code management, leveraging the power of Git.
 
-## Now that you are familiar with Git and Github here's the workflow and some duties you as a Embeded Member will have
+## Training, Workflow, and Duties
 
 ### Training 
 
@@ -73,10 +73,12 @@ Most of your time at these meetings would be writing code and testing it with th
 
 ### Robots
 
+We have 3 main robots (Infantry, Sentry, and Hero). You will meet them very soon. They all have different functionality but their code is very similar and we our work would be mainly focused on these 3 robots.
+
 ### Extra Ressources
 
-
-
+- Good Web Code Editor: [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
+- Git command Cheat Sheet: [Git](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 
