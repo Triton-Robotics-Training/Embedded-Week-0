@@ -1,5 +1,10 @@
 # Embedded-Week-0
 
+## Hey Recruits, 
+this is Week 0 of the training, an intro of sorts to what we do here on the embedded team, and how we operate. If you have any questions, please ask your lead and they will be able to answer your queries or clarify some things. Asking anything in #embedded chat is always recommended
+
+With that said, in this week 0 we'll be explaining git as a system, which is how we as software engineers collaborate code for the robot, as well as our workflow in general and what is expected of you as an embedded member.
+
 ## Understanding Git
 
 Git is a distributed version control system that allows multiple people to work on a project simultaneously without interfering with each other's work. It's widely used in software development for managing and tracking changes to source code, but it can also be used for managing changes to any set of files.
